@@ -15,7 +15,9 @@ Ik ben vooral geïnteresseerd in audio en film en zou ook graag hieruit een carr
 * Muziekclip Compro Oro - Liquid love (Transatlantic): https://vimeo.com/126799211
 
 ##Werkervaring
-*
+* Webprojecten school
+* Filmprojecten school (zie portfolio)
+* Muziekclip Compro Oro - Liquid Love (Transatlantic) (zie portfolio)
 
 ##Kennis webtechnologieën
 * HTML & CSS
