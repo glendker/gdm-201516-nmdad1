@@ -1,9 +1,20 @@
 #RESUME
 
 ##Biografie
+| Info | |
+|-----------------|:--------:|
+|Naam:|Glenn De Kerpel|
+|Adres:|Vooruitgangsstraat 54, 1770 Liedekerke|
+|Nationaliteit:|Belg|
+|Geboorteplaats:|Aalst|
+|Geboortedatum:|21/06/1993|
+|Studierichting:|Grafische en Digitale Media, Multimediaproductie (proDUCE)|
+|School:|Arteveldehogeschool Gent|
+|Hobby's:|Sport, muziek, audio & film, gamen|
+
 Ik ben Glenn De Kerpel, 22 jaar en student Grafische en Digitale Media (afstudeerrichting Multimediaproductie-proDUCE) aan de Arteveldehgeschool te Gent.
 
-Ik ben vooral geïnteresseerd in audio en film en zou ook graag hieruit een carrière willen opbouwen. Mijn hobby's bestaan uit sport, muziek producen, filmprojecten, ... Graag zou ik ook me ook willen bijscholen voor fotografie, maar ik focus me nu vooral op school.
+Ik ben vooral geïnteresseerd in audio en film en zou ook graag hieruit een carrière willen opbouwen. Mijn hobby's bestaan uit sport, muziek producen en het deelnemen aan filmprojecten. In de toekomst zou ik me graag willen bijscholen voor fotografie, maar momenteel focus ik me vooral op school.
 
 ##Portfolio
 * [One-minute reportage: Gert-Jan De Baets/Genthology](https://vimeo.com/95319139)
@@ -20,14 +31,15 @@ Ik ben vooral geïnteresseerd in audio en film en zou ook graag hieruit een carr
 * Muziekclip Compro Oro - Liquid Love (Transatlantic) (zie portfolio)
 
 ##Kennis webtechnologieën
-* HTML & CSS
-* Javascript
+* HTML & CSS: +
+* Javascript: +/-
 
 ##Softwarekennis
 * Adobe Photoshop
 * Adobe Illustrator
 * Adobe After Effects
 * Adobe Premiere
+* Adobe Audition
 * Jetbrains PHPStorm
 
 ##Contactinformatie
